@@ -32,3 +32,6 @@ The program will print: "Not Duplicate" and "Duplicate".
 * Output: No Duplicates
 * Elapsed time = 2869ms
 * 2.869 microseconds per execution
+
+
+#### This program was written for a competetion. Please feel to use it in anyway possible if needed (http://www.consid.se/program-your-way-to-silicon-valley)
